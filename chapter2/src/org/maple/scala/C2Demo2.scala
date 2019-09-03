@@ -17,7 +17,7 @@ object C2Demo2 {
 
     def main(args: Array[String]): Unit = {
         println(max(1, 2))
-        println(max(2,3))
+        println(max(2, 3))
         greet()
     }
 }
